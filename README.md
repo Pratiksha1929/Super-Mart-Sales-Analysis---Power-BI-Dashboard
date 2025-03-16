@@ -47,7 +47,9 @@ This dashboard provides a comprehensive view of Super Mart’s business performa
 ![Screenshot (42)](https://github.com/user-attachments/assets/3afd5189-6b4c-4260-a32d-4e72a1231ec0)
 
 
-Final Conclusion
+# Final Conclusion
+
+
 The Super Mart Sales Analysis Power BI dashboard provides a comprehensive overview of sales, 
 profit, and order trends over multiple years, regions, and categories. Key insights derived from the data include:
 
