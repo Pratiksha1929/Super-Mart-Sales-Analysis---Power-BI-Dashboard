@@ -38,5 +38,13 @@ This dashboard provides a comprehensive view of Super Mart’s business performa
 
 # Dashboard
 
-![Screenshot (41)](https://github.com/user-attachments/assets/74b1bf9d-184f-4e8f-8230-b353f3649c3b)
+![Screenshot (39)](https://github.com/user-attachments/assets/ae157c60-1320-4ae3-a7f1-a0b78abd9917)
+
+![Screenshot (40)](https://github.com/user-attachments/assets/c4ad90c2-73d3-420a-b211-1c7b464571ae)
+
+![Screenshot (41)](https://github.com/user-attachments/assets/a362ca0a-36fe-4215-bb1d-79a78fafa367)
+
+![Screenshot (42)](https://github.com/user-attachments/assets/3afd5189-6b4c-4260-a32d-4e72a1231ec0)
+
+
 
